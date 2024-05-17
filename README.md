@@ -40,9 +40,13 @@ Follow these steps to get the project up and running on your local machine:
    ```sh
    cd construction-company-management-system
 3. **Set Up the Database**
-   ```sh
-   Create a database named construction_db.
-Import the SQL file located in the database folder:
+  
+  -  Create a database named construction_db.
+  - Import the SQL file located in the database folder:
+ ```sh
+   mysql -u your-username -p construction_db < database/construction_db.sql
+
+
 
    
 
