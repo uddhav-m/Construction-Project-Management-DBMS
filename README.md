@@ -33,7 +33,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/construction-company-management-system.git
+   git clone https://github.com/uddhav-m/Construction-Project-Management-DBMS.git
 
 2. **Navigate to the Project Directory**
    ```sh
