@@ -37,7 +37,7 @@ Follow these steps to get the project up and running on your local machine:
 
 2. **Navigate to the Project Directory**
    ```sh
-   cd construction-company-management-system
+   cd Construction_Project_DBMS
 3. **Set Up the Database**
   
   -  Create a database named construction_db.
